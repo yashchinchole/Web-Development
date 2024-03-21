@@ -1,0 +1,27 @@
+.c1 {
+    background-color: orange;
+    height: 100px;
+    width: 400px;
+}
+
+.c2 {
+    position: relative;
+    background-color: whitesmoke;
+    height: 100px;
+    width: 400px;
+}
+
+.c3 {
+    background-color: green;
+    height: 100px;
+    width: 400px;
+}
+
+.c2>.circle {
+    position: absolute;
+    border: 3px solid blue;
+    height: 94px;
+    width: 100px;
+    left: 150px;
+    border-radius: 50%;
+}

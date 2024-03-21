@@ -1,0 +1,69 @@
+html {
+    background-color: whitesmoke;
+    font-size: 20px;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    font-size: 20px;
+}
+
+.heading {
+    font-weight: bolder;
+}
+
+#pixel {
+    font-size: 20px;
+}
+
+#point {
+    font-size: 20pt;
+}
+
+footer {
+    font-size: 20pt;
+}
+
+#em {
+    font-size: 1em;
+}
+
+#rem {
+    font-size: .5rem;
+}
+
+#helvetica {
+    font-family: Helvetica, sans-serif;
+}
+
+#arial {
+    font-family: Arial, sans-serif;
+}
+
+#serif {
+    font-family: serif;
+}
+
+#sans-serif {
+    font-family: sans-serif;
+}
+
+#cursive {
+    font-family: cursive;
+}
+
+#monospace {
+    font-family: monospace;
+}
+
+#fantasy {
+    font-family: fantasy;
+}

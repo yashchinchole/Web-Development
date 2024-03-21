@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+}
+
+h2{
+    color: black;
+}
+
+/* class selector - many element */
+.red-text{
+    color: red;
+}
+
+/* id selector - one element */
+#main{
+    color: green
+}
+
+/* Attribute selector */
+p[draggable="true"]{
+    color: blueviolet;
+}
+
+/* Universal selector */
+*{
+    color: black;
+}
