@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/Web-Development)
+
 Front-End Web Development
 
 HTML 5
